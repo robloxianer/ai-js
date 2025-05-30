@@ -168,4 +168,4 @@ client.once('ready', () => {
 
 });
 
-client.login('MTE3ODY5NzMyNTY5OTQxNjEyNg.GaQJZl.Lkz9WSpNZq3kdB4lQGNgIJ8wHOo2DkPr8R4Suc');
+client.login('YOUR BOT TOKEN');
