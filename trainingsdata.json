@@ -1,0 +1,9 @@
+[
+
+    { "input": "hallo", "output": "Hallo! Wie kann ich dir helfen?" },
+
+    { "input": "wie geht es dir", "output": "Mir geht es gut, danke der Nachfrage!" },
+
+    { "input": "hilfe", "output": "Ich bin hier, um dir zu helfen." }
+
+]
